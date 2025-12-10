@@ -2,6 +2,12 @@ BCG X – Behavioral Analytics & Predictive Risk Modeling
 
 A full end-to-end machine learning pipeline replicating a real consulting workflow for customer churn & risk prediction. This project demonstrates EDA, feature engineering, data cleaning, ML modeling, and stakeholder communication, aligned with how BCG X teams design analytical solutions.
 
+Badges
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Jupyter](https://img.shields.io/badge/Platform-Jupyter%20Notebook-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen.svg)
+
  Project Overview
 
 This project analyzes customer behavioral and financial data to identify early churn/risk indicators.
