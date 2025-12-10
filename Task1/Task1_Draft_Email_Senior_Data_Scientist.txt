@@ -1,0 +1,9 @@
+Hi Sir,
+
+I hope you are doing well.
+
+I and my Senior Data Scientist discussed the business and the problem a gas and electricity utility company may face. As for my knowledge the possible reasons a customer would choose to stay with or switch energy providers may be price and customer service. We need to analyze the data given by them whether price, customer service, purchasing trends, location of business causing the churn. Once we get detailed information in the form of data we can do exploratory analysis and data cleaning, feature engineering(handling categorical and numeric features), model evaluation(evaluate with different models and choosing the best one which yields more accuracy) and dashboard creation by data visualization tool for creating dashboards to easily communicate with the client for better decision making.
+
+With Regards,
+
+Athilakshmi
