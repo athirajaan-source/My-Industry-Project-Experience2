@@ -1,0 +1,24 @@
+Subject: Approach to Analyzing Customer Churn for Utility Business
+
+Hi Sir,
+
+I hope you are doing well.
+
+My Senior Data Scientist and I discussed the business problem regarding customer churn in a gas and electricity utility company. Based on our understanding, key factors influencing whether a customer stays with or switches an energy provider may include Payment history, pricing, customer service quality, purchasing behavior, and business location.
+
+To validate these assumptions, we would need detailed customer data from the client. Once the data is available, our approach would include:
+
+Conducting exploratory data analysis (EDA) to understand patterns and trends
+
+Performing data cleaning and preprocessing
+
+Implementing feature engineering for both categorical and numerical variables
+
+Building and evaluating multiple machine learning models to identify the best-performing solution
+
+Creating interactive dashboards using a data visualization tool to clearly communicate insights and support data-driven decision-making
+
+This structured approach will help identify the key drivers of churn and provide actionable insights to the client.
+
+With Regards,
+Athilakshmi
