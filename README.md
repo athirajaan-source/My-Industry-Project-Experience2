@@ -80,5 +80,12 @@ The repository is structured to reflect progressive consulting deliverables, mir
 - **Core Stack:** Python, `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
 
 ---
+License
+
+This project is released under the MIT License.
+
+Author
+
+Athilakshmi Alagarsamy | Machine Learning | Predictive Modeling
 
 
