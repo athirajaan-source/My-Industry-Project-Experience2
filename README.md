@@ -79,13 +79,11 @@ The repository is structured to reflect progressive consulting deliverables, mir
 - **Business Acumen:** Stakeholder Communication, Strategy presentation, Data Storytelling
 - **Core Stack:** Python, `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
 
----
-License
+### License
 
 This project is released under the MIT License.
 
-Author
+### Author
 
 Athilakshmi Alagarsamy | Machine Learning | Predictive Modeling
-
-
+---
