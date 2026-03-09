@@ -57,6 +57,14 @@ The repository is structured to reflect progressive consulting deliverables, mir
 *   **Outputs:** Confusion matrix, feature importance visualizer, and detailed risk-segment profiling.
 *   **Tech Stack:** `RandomForestClassifier`, `GridSearchCV`, `classification_report`, `recall_score`
 
+
+
+![ModelOutput]
+<img width="466" height="452" alt="ModelOutput" src="https://github.com/user-attachments/assets/a2cd7afb-ffd5-4eba-94c4-9554f17f8c44" />
+<img width="1491" height="452" alt="ModelOutput_Consumption" src="https://github.com/user-attachments/assets/ee42177b-f29b-4d22-99e7-29dfac0d1b11" />
+<img width="705" height="767" alt="ModelOutput_RandomForest" src="https://github.com/user-attachments/assets/e8fca07f-65c6-4c59-82ef-27dccff94d81" />
+<img width="571" height="457" alt="ModelOutput_EvaluationMetrics" src="https://github.com/user-attachments/assets/ce4860d7-d4f4-495c-9bae-0c81c8b8288a" />
+
 ---
 
 ## 🎯 Key Outcomes & Impact
